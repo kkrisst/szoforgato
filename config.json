@@ -1,0 +1,9 @@
+{
+	"config" : 
+	{
+		"question_language" : "eng",
+		"allow_correct_order" : "yes",
+		"bla" : "bla",
+		"bla2" : "bla2"
+	}
+}
