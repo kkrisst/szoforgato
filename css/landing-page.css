@@ -4,6 +4,23 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 
+ 
+.button-name {
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+
+.lesson-button {
+	margin: 12px;
+	display: block;
+}
+
+.intro-buttons {
+	margin-top: 30px;
+}
+ 
 body,
 html {
     width: 100%;
@@ -35,7 +52,7 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/intro-bg.jpg) no-repeat center center;
+    background: url(../img/backgrounds/library-row-bg.jpg) no-repeat center center;
     background-size: cover;
 }
 
@@ -83,13 +100,6 @@ h6 {
     .intro-divider {
         width: 100%;
     }
-}
-
-.network-name {
-    text-transform: uppercase;
-    font-size: 14px;
-    font-weight: 400;
-    letter-spacing: 2px;
 }
 
 .content-section-a {
